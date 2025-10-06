@@ -1,0 +1,4 @@
+# file: /home/kiryasench/DL2/minitorch-module-1-sekigo/minitorch/scalar_functions.py
+# hypothesis_version: 6.140.3
+
+[0.0, 1.0, 1000000.0, 'ScalarLike']
